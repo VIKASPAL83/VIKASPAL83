@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Vikas Pal 👋
 
-<!--
-**VIKASPAL83/VIKASPAL83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student (4th Semester)  
+💻 Learning DevOps & Cloud  
+🚀 Goal: Become DevOps Engineer  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Git & GitHub
+- Linux Basics
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- DevOps Practice (Git & Linux commands)
+
+## 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/vikas-pal-619a63250)
