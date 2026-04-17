@@ -7,7 +7,6 @@
 ## 🛠 Skills
 - Git & GitHub
 - Linux Basics
-- HTML, CSS
 
 ## 📂 Projects
 - DevOps Practice (Git & Linux commands)
