@@ -1,15 +1,21 @@
-# Hi, I'm Vikas Pal 👋
+### Hi, I'm Vikas Pal 👋
 
-🎓 BCA Student (4th Semester)  
-💻 Learning DevOps & Cloud  
-🚀 Goal: Become DevOps Engineer  
+- 🎓 BCA Graduate (2026) | Aspiring Data Analyst
+- 📊 Skills: MS Excel, Power BI, SQL, Dashboard Creation
+- 🚀 Currently building data analytics projects and applying for Data Analyst / MIS Executive roles
 
-## 🛠 Skills
+### 🛠️ Skills
+- MS Excel (Advanced) — Pivot Tables, Nested IF/IFS, VLOOKUP/HLOOKUP
+- SQL (Basic)
+- Power BI
 - Git & GitHub
-- Linux Basics
 
-## 📂 Projects
-- DevOps Practice (Git & Linux commands)
+### 📂 Projects
+- [Excel Production Dashboard](https://github.com/VIKASPAL83/excel-production-dashboard) — Factory production data analysis with Pivot Tables, KPIs & nested formulas
 
-## 📫 Connect with me
-- LinkedIn: (https://www.linkedin.com/in/vikas-pal-619a63250)
+### 📜 Certifications
+- Deloitte Australia Data Analytics Job Simulation (Forage)
+- Microsoft Excel Beginners to Advanced (Skill Course)
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/vikas-pal-619a63250)
